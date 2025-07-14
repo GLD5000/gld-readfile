@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@gld5000-cli/readline": "^1.0.6"
+  }
+}
