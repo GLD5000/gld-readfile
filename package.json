@@ -1,5 +1,31 @@
 {
+  "name": "@gld5000-cli/readfile",
+  "version": "1.0.0",
+  "description": "CLI interface to read the contents of a given file",
+  "keywords": [
+    "CLI",
+    "readline",
+    "file",
+    "node.js",
+    "fs"
+  ],
+  "homepage": "https://github.com/GLD5000/gld-readfile#readme",
+  "bugs": {
+    "url": "https://github.com/GLD5000/gld-readfile/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GLD5000/gld-readfile.git"
+  },
+  "license": "MIT",
+  "author": "GLD5000",
+  "type": "commonjs",
+  "main": "src.index.js",
+  "scripts": {
+    "test": "node test.mjs"
+  },
   "dependencies": {
     "@gld5000-cli/readline": "^1.0.6"
-  }
+  },
+  "devDependencies": {}
 }
