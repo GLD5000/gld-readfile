@@ -1,35 +1,48 @@
-# gld-readfile
+# [@gld5000-cli/readfile](https://www.npmjs.com/package/@gld5000-cli/readfile)
+
 CLI interface to read the contents of a given file
 
-# [@gld5000-cli/readfile](https://www.npmjs.com/package/@gld5000-cli/readfile)
-CLI interface to read the contents of a given file
 ## Install
+
 ```
 npm i -D @gld5000-cli/readfile
 ```
+
 ## Example Usage
+
 ### Import (.mjs)
+
 ```
 import { * as readfile } from '@gld5000-cli/readfile'
 ```
+
 ### Example Input
+
 ```
-...
+Add your code here...
 ```
+
 ### Example Output
+
 ```
-...
+Add your code here...
 ```
+
 ## Update
+
 ```
 npm update @gld5000-cli/readfile
 ```
+
 ## Uninstall
+
 ```
 npm uninstall @gld5000-cli/readfile
 ```
 
+
 ## License
+
 MIT License
 
 Copyright (c) 2025 Gareth L Devlin
