@@ -27,5 +27,10 @@
   "dependencies": {
     "@gld5000-cli/readline": "^1.0.6"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@gld5000k/timestamp": "^1.0.9",
+    "@types/node": "^24.1.0",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3"
+  }
 }
